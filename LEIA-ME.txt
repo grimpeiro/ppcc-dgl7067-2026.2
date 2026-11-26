@@ -1,0 +1,1 @@
+Substitua app.py e imagens/sobre_o_programa.png no GitHub. O banner original da V15 está incluído caso precise restaurá-lo. Não altere requirements.txt.
